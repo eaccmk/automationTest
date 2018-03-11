@@ -8,12 +8,12 @@ _This test has ben ran on Windows OS (32 bit)_
 
 * INSTALL below software with versions
 
-  'Chrome Browser Version 65.0.3325.146 (Official Build) (32-bit)`
+  `Chrome Browser Version 65.0.3325.146 (Official Build) (32-bit)`
   `ChromeDriver 2.36.540470`
   `Selenium Standalone Server 3.10.0`
   `Selenium Java (language bindings) 3.10.0`
   `TestNG version 6.14.2`
-  '
+  
   
   Ref: https://www.seleniumhq.org/download/ for more details
 
