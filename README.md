@@ -2,7 +2,7 @@
 
 *_Sample Test automation Project using Java, Selenium, TestNG with maven_*
 
-*====================  -Before you start-  ====================*
+*====================  -Before you start-  ====================* 
 
 _This test has ben ran on Windows OS (32 bit)_
 
