@@ -1,4 +1,4 @@
-## automationTest
+## automationTest [![Build Status](https://travis-ci.org/eaccmk/automationTest.svg?branch=master)](https://travis-ci.org/eaccmk/automationTest)
 
 *_Sample Test automation Project using Java, Selenium, TestNG with maven_*
 
